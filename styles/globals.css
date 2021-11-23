@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Custom ScrollBar Chrome Opera */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+::-webkit-scrollbar-thumb {
+  background: #00b3ff;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #ff0088;
+}
+/* Custom ScrollBar FireFox */
+:root {
+  scrollbar-color: #00b3ff #ffffff;
+  scrollbar-width: thin;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+* {
+  font-family: 'Poppins', sans-serif;
+}

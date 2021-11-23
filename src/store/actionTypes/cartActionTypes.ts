@@ -1,0 +1,5 @@
+export enum CartActionTypes {
+  TOGGLE_CART_SHOW = 'TOGGLE_CART_SHOW',
+  ADD_ITEM = 'ADD_ITEM',
+  DELETE_ITEM = 'DELETE_ITEM',
+}

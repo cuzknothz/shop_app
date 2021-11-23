@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "riazxrazor.html-to-jsx",
+    "xabikos.javascriptsnippets",
+    "orta.vscode-jest",
+    "monokai.theme-monokai-pro-vscode",
+    "christian-kohler.path-intellisense",
+    "csstools.postcss"
+  ]
+}
